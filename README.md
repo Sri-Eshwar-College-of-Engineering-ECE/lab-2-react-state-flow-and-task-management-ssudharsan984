@@ -1,1 +1,0 @@
-git add package.json package-lock.json public src
